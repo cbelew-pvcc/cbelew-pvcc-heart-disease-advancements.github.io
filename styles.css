@@ -1,3 +1,16 @@
+:root {
+    --main-bg-color: #f0f0f0;
+    --main-text-color: #333;
+    --banner-bg-color: #4CAF50;
+    --banner-text-color: #fff;
+    --container-margin: 20px;
+    --container-padding: 20px;
+    --font-family: 'Aptos', sans-serif;
+    --font-size: 12pt;
+    --line-height: 18.4px;
+    --link-color: rgb(0, 109, 199);
+}
+
 body {
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
